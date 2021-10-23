@@ -1,7 +1,7 @@
 # 🌠 Calculator Vue
 
 <p align="center"> 
-    <img src="icons\Calculator.PNG" width="480">
+    <img src="icons\Calculator.PNG" alt="Amadeu Calculator"  width="550em">
 </p>
 
 A few months ago
